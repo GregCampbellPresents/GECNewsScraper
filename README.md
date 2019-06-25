@@ -9,7 +9,9 @@ https://dashboard.heroku.com/apps/gec-newsscraper
 YouTube Demo Video:
 https://www.youtube.com/watch?v=L8M0fHqku6A
 
+
 **These technologies were used:**
+
 -HTML, CSS, and JavaScript: Scripting and foundation.
 
 -MongoDB: Storing data into a NoSQL database
